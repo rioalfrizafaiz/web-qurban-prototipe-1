@@ -1,0 +1,54 @@
+
+
+.laporan-container{
+    margin-top: 10mm;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.laporan-text{
+    text-align: left;
+    font-size: 12pt;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+.laporan-registrasi{
+    width: 55%;
+    font-size: 12pt;
+    height: 10mm;
+    text-align: left;
+    background-color: rgb(247, 247, 247);
+    border-width: 0ch;
+    padding-left: 5mm;
+}
+
+.laporan-div-adj{
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.laporan-opsi-qurban{
+    width: 56.7%;
+    height: 10mm;
+    font-size: 12pt;
+    border-width: 0ch;
+    background-color: snow;
+    padding-left: 5mm;
+}
+
+.laporan-submit{
+    width: 20%;
+    border-radius: 1mm;
+    height: 25px;
+    font-size: 11pt;
+    text-shadow: burlywood;
+    background-color: snow;
+    border-width: 0.1mm;
+}
