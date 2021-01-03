@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/web-qurban-prototipe-1/static/css/main.7ce40367.chunk.css",
+    "main.js": "/web-qurban-prototipe-1/static/js/main.a59a40e2.chunk.js",
+    "main.js.map": "/web-qurban-prototipe-1/static/js/main.a59a40e2.chunk.js.map",
+    "runtime-main.js": "/web-qurban-prototipe-1/static/js/runtime-main.432e63a2.js",
+    "runtime-main.js.map": "/web-qurban-prototipe-1/static/js/runtime-main.432e63a2.js.map",
+    "static/js/2.95bf3cf0.chunk.js": "/web-qurban-prototipe-1/static/js/2.95bf3cf0.chunk.js",
+    "static/js/2.95bf3cf0.chunk.js.map": "/web-qurban-prototipe-1/static/js/2.95bf3cf0.chunk.js.map",
+    "static/js/3.3cdcadd7.chunk.js": "/web-qurban-prototipe-1/static/js/3.3cdcadd7.chunk.js",
+    "static/js/3.3cdcadd7.chunk.js.map": "/web-qurban-prototipe-1/static/js/3.3cdcadd7.chunk.js.map",
+    "index.html": "/web-qurban-prototipe-1/index.html",
+    "static/css/main.7ce40367.chunk.css.map": "/web-qurban-prototipe-1/static/css/main.7ce40367.chunk.css.map",
+    "static/js/2.95bf3cf0.chunk.js.LICENSE.txt": "/web-qurban-prototipe-1/static/js/2.95bf3cf0.chunk.js.LICENSE.txt",
+    "static/media/P.Siregar2020-Sebelum.be8cb00f.jpeg": "/web-qurban-prototipe-1/static/media/P.Siregar2020-Sebelum.be8cb00f.jpeg",
+    "static/media/P.Siregar2020-Sesudah.443ece4e.jpeg": "/web-qurban-prototipe-1/static/media/P.Siregar2020-Sesudah.443ece4e.jpeg",
+    "static/media/R.Alfriza2020-Sebelum.cb22bc1c.jpg": "/web-qurban-prototipe-1/static/media/R.Alfriza2020-Sebelum.cb22bc1c.jpg",
+    "static/media/R.Alfriza2020-Sesudah.d9631ea2.jpg": "/web-qurban-prototipe-1/static/media/R.Alfriza2020-Sesudah.d9631ea2.jpg",
+    "static/media/User3-Sebelum.e1e0f616.jpg": "/web-qurban-prototipe-1/static/media/User3-Sebelum.e1e0f616.jpg",
+    "static/media/User3-Sesudah.67bf8937.jpg": "/web-qurban-prototipe-1/static/media/User3-Sesudah.67bf8937.jpg",
+    "static/media/User4-Sebelum.9b32298f.jpg": "/web-qurban-prototipe-1/static/media/User4-Sebelum.9b32298f.jpg",
+    "static/media/User4-Sesudah.923b5d2c.jpg": "/web-qurban-prototipe-1/static/media/User4-Sesudah.923b5d2c.jpg",
+    "static/media/User5-Sebelum.270eb6c8.jpg": "/web-qurban-prototipe-1/static/media/User5-Sebelum.270eb6c8.jpg",
+    "static/media/User5-Sesudah.9d135ea2.jpg": "/web-qurban-prototipe-1/static/media/User5-Sesudah.9d135ea2.jpg",
+    "static/media/logoras.990009ce.png": "/web-qurban-prototipe-1/static/media/logoras.990009ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.432e63a2.js",
+    "static/js/2.95bf3cf0.chunk.js",
+    "static/css/main.7ce40367.chunk.css",
+    "static/js/main.a59a40e2.chunk.js"
+  ]
+}
